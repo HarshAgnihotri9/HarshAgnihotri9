@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [THE NOIDA FLATS](https://www.thenoidaflats.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/harsh-agnihotri-075797222/](https://www.linkedin.com/in/harsh-agnihotri-075797222/)
+- 👨‍💻 All of my projects are available at https://harsh-portfolio-ten-steel.vercel.app)
 
 - 💬 Ask me about **REACT,NEXT JS**
 
