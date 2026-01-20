@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **agnihotriharsh154@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fkbhA0o730wG3EbsO4IDS6fDrNPlXr_e/view?usp=sharing](https://drive.google.com/file/d/1fkbhA0o730wG3EbsO4IDS6fDrNPlXr_e/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1qe7So6-kW9eRXua8ip7Psf96veCY4Yzo/view?usp=drive_link
 
 - ⚡ Fun fact **I talk to my code more than I talk to people.**
 
